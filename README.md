@@ -1,4 +1,4 @@
-# thebrogrammercode
+# Brogrammer code
 A brogrammer is a developer that displays sociable traits rather than the programmer's stereotypical geeky or nerdy persona. The term is a portmanteau of bro and programmer. #TheBrogrammersCode
 
 Article#3 ~ A Brogrammer is only allowed to be unfashionable if he's in the Forbes list of richest men in the world.
